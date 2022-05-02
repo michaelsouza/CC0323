@@ -1,2 +1,2 @@
 # CC0323
-CC0323 Programação não-linear
+CC0323 PROGRAMAÇÃO NÃO-LINEAR
