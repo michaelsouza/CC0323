@@ -6,6 +6,8 @@ presentation:
     margin: 0.1
     progress: true
     theme: white.css
+export_on_save:
+  ebook: true
 ---
 
 <style type="text/css">
