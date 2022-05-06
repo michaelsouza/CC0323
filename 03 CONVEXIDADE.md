@@ -125,7 +125,7 @@ Se $f:\Omega\to\mathbb{R}$ é função convexa, então, em $\Omega$, todo minimi
 **Lema.**
 Se $g:\Omega\to\mathbb{R}$ for uma função convexa, então, para cada $c\in\mathbb{R}$, o conjunto $\Gamma_c = \{x\in\Omega:g(x)\leq c\}$ será convexo.
 
-@import "figures/03_10.png" {width="500px" title="my title" alt="my alt"}
+@import "figures/03_10.png" {width="800px" title="my title" alt="my alt"}
 
 <!-- slide -->
 **Corolário.**
