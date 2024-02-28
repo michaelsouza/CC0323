@@ -20,8 +20,6 @@ Michael Souza
 
 *michael@ufc.br*
 
-*(85) 99821-9955*
-
 ![bg right:25% height:200](figures/ufc_logo.png)
 
 ---
@@ -37,7 +35,7 @@ Michael Souza
 
 ---
 
-## Descrição do Curso
+## Ementa
 
 - Revisão de conceitos matemáticos
     - Derivadas (Gradiente, Hessiana, ...)
@@ -54,11 +52,11 @@ Michael Souza
 
 ## Bibliografia Básica
 
-1. E.K.P. Chong, S.H. Zak. *An Introduction to Optimization*, 3ª Ed. Wiley-Interscience, 2008.
-2. D. G. Luenberger, Y. Ye. *Linear and Nonlinear Programming*, 3ª Ed. Springer, 2008.
-3. R. Fletcher. *Métodos Práticos de Otimização*. Wiley, 2000.
+1. ***E.K.P. Chong, S.H. Zak. *An Introduction to Optimization*, 4ª Ed. Wiley, 2013.***
+2. D. G. Luenberger, Y. Ye. *Linear and Nonlinear Programming*, 5ª Ed. Springer, 2021.
+3. R. Fletcher. *Practical Methods of Optimization*, 2ª Ed. Wiley, 2013.
 
-![bg right:20% height:500](figures/books_basic2.jpg)
+![bg right:20% height:500](figures/books_basic.png)
 
 ---
 
@@ -67,22 +65,26 @@ Michael Souza
 1. A. Friedlander. *Elementos de Programação Não-Linear*. Unicamp, 1994.
 2. A. Izmailov, M. Solodov. *Otimização Vol. 1: Condições de Otimalidade, Elementos de Análise Convexa e de Dualidade*. IMPA, 2005.
 3. A. Izmailov, M. Solodov. *Otimização Vol. 2: Métodos Computacionais, Elementos de Análise Convexa e de Dualidade*. IMPA, 2007.
-4. M. S. Bazaraa, Hanif D. Sherali, C. M. Shetty. *Programação Não Linear: Teoria e Algoritmos*. Wiley-Interscience, 2006.
-5. Dimitri P. Bertsekas. *Programação Não Linear*. Athena Scientific, 1999.
+4. M. S. Bazaraa, H. D. Sherali, C. M. Shetty. *Nonlinear Programming: Theory and Algorithms*. Wiley, 2006.
+5. Dimitri P. Bertsekas. *Nonlinear Programming*. Athena Scientific, 1999.
+
+![bg right:20% ](figures/books_pile.webp)
 
 ---
 
 ## Avaliação
 
-- **Provas**: 3 provas teóricas (P1, P2, P3)
-- **Trabalhos**: 2 trabalhos práticos (T1, T2)
+- **Provas**: 3 provas teóricas ($P_1, P_2, P_3$)
+- **Trabalhos**: 2 trabalhos práticos ($T_1, T_2$)
 
 <br>
 
-A média final será calculada como:
+A média final será dada por:
 <br>
 
-$$ MF = 0.6 \times \frac{P1 + P2 + P3}{3} + 0.4 \times \frac{T1 + T2}{2} $$
+$$ M_F = 0.6 \times \frac{P_1 + P_2 + P_3}{3} + 0.4 \times \frac{T_1 + T_2}{2} $$
+
+![bg left:20%](figures/exam.jpg)
 
 ---
 
@@ -93,22 +95,44 @@ $$ MF = 0.6 \times \frac{P1 + P2 + P3}{3} + 0.4 \times \frac{T1 + T2}{2} $$
 
 | Prova | Conteúdo |
 |:-----:|----------|
-| P1    | - Revisão de conceitos matemáticos<br>- Condições de otimalidade local<br>- Otimização unidimensional |
-| P2    | - Otimização multidimensional irrestrita<br>- Convexidade |
-| P3    | - Otimização com restrições |
+| $P_1$    | - Revisão de conceitos matemáticos<br>- Condições de otimalidade local<br>- Otimização unidimensional |
+| $P_2$    | - Otimização multidimensional irrestrita<br>- Convexidade |
+| $P_3$    | - Otimização com restrições |
 </div>
+
+![bg right:20%](figures/exam_content.jpg)
 
 ---
 
 ## Conteúdo dos Trabalhos
 
-- **T1**: Resolução de um problema prático de otimização irrestrita
-    - Código
-    - Apresentação (5 slides)
+- **$T_1$**: Resolução de um problema prático de otimização irrestrita
+    - Código (Jupyter Notebook, Python)
+    - Apresentação (5 slides: Intro, Problema, Método, Resultados, Conclusão)
     
-- **T2**: Resolução de um problema prático de otimização restrita
-    - Código
-    - Apresentação (5 slides)
+- **$T_2$**: Resolução de um problema prático de otimização restrita
+    - Código (Jupyter Notebook, Python)
+    - Apresentação (5 slides: Intro, Problema, Método, Resultados, Conclusão)
+
+
+![bg right:20%](figures/exam_content.jpg)
+
+--- 
+
+## Canais de Comunicação
+
+- **Aulas**
+    - Dúvidas em aula (primeiros 15 minutos)    
+
+- **E-mail**: 
+    - *michael@ufc.br*
+    - Assunto: [CC0323] Assunto do e-mail    
+
+- **WhatsApp:** 
+  - Grupo: *CC0323-2024.1*
+  - :point_right: QR Code ao lado
+  
+![bg right:30% height:400](figures/qrcode_whatsapp.png)
 
 ---
 
