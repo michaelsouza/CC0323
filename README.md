@@ -1,145 +1,20 @@
----
-marp: true
-theme: default
-class: 
-  - lead
-paginate: true
----
+# Slides
 
-<style>
-  /* Adjusted custom class for centering tables */
-  .table-center table {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-  }
-</style>
+## Tools
 
-# CC0323: Programação Não-Linear
-Michael Souza
+- [Marp](https://marp.app/)
+- [@marp-team/marp-cli](https://github.com/marp-team/marp-cli)
 
-*michael@ufc.br*
+# Prompts
 
-![bg right:25% height:200](figures/ufc_logo.png)
+## Image Creation
 
----
-## Visão Geral
+- Pile of books
+```markdown
+/imagine prompt:A vertical composition of an anime-style pile of books, with a harmonious blend of blue, green, yellow, and white, situated in a bright, sunlit classroom. Books scatter across a wooden desk, some open, revealing intricate math equations. The window casts playful light and shadow, enhancing the vivid colors. The classroom background, with posters and plants, adds depth. Created Using: anime aesthetics, crisp linework, radiant color scheme, natural sunlight effects, detailed environment, engaging shadows, playful light interaction, glibatree prompt, depth enhancement, wooden texture, classroom vibe --ar 2:3
+```
 
-- **Código**: CC0323
-- **Semestre**: 6º
-- **Carga Horária**: 64 (48 Teórica, 16 Prática)
-- **Pré-Requisitos**: Cálculo II, Álgebra Linear
-- **Horário**: Quartas e Sextas de 10h às 11h40
-
-![bg left:20%](figures/rural_landscape.webp)
-
----
-
-## Ementa
-
-- Revisão de conceitos matemáticos
-    - Derivadas (Gradiente, Hessiana, ...)
-    - Série de Taylor
-- Condições de otimalidade local
-- Convexidade
-- Otimização unidimensional
-- Otimização multidimensional irrestrita
-- Otimização multidimensional restrita
-
-![bg left:20%](figures/target.webp)
-
----
-
-## Bibliografia Básica
-
-1. ***E.K.P. Chong, S.H. Zak. *An Introduction to Optimization*, 4ª Ed. Wiley, 2013.***
-2. D. G. Luenberger, Y. Ye. *Linear and Nonlinear Programming*, 5ª Ed. Springer, 2021.
-3. R. Fletcher. *Practical Methods of Optimization*, 2ª Ed. Wiley, 2013.
-
-![bg right:20% height:500](figures/books_basic.png)
-
----
-
-## Bibliografia Complementar
-
-1. A. Friedlander. *Elementos de Programação Não-Linear*. Unicamp, 1994.
-2. A. Izmailov, M. Solodov. *Otimização Vol. 1: Condições de Otimalidade, Elementos de Análise Convexa e de Dualidade*. IMPA, 2005.
-3. A. Izmailov, M. Solodov. *Otimização Vol. 2: Métodos Computacionais, Elementos de Análise Convexa e de Dualidade*. IMPA, 2007.
-4. M. S. Bazaraa, H. D. Sherali, C. M. Shetty. *Nonlinear Programming: Theory and Algorithms*. Wiley, 2006.
-5. Dimitri P. Bertsekas. *Nonlinear Programming*. Athena Scientific, 1999.
-
-![bg right:20% ](figures/books_pile.webp)
-
----
-
-## Avaliação
-
-- **Provas**: 3 provas teóricas ($P_1, P_2, P_3$)
-- **Trabalhos**: 2 trabalhos práticos ($T_1, T_2$)
-
-<br>
-
-A média final será dada por:
-<br>
-
-$$ M_F = 0.6 \times \frac{P_1 + P_2 + P_3}{3} + 0.4 \times \frac{T_1 + T_2}{2} $$
-
-![bg left:20%](figures/exam.jpg)
-
----
-
-<!-- _class: lead -->
-## Conteúdo das avaliações
-<br>
-<div style="margin-left: auto; margin-right: auto;">
-
-| Prova | Conteúdo |
-|:-----:|----------|
-| $P_1$    | - Revisão de conceitos matemáticos<br>- Condições de otimalidade local<br>- Otimização unidimensional |
-| $P_2$    | - Otimização multidimensional irrestrita<br>- Convexidade |
-| $P_3$    | - Otimização com restrições |
-</div>
-
-![bg right:20%](figures/exam_content.jpg)
-
----
-
-## Conteúdo dos Trabalhos
-
-- **$T_1$**: Resolução de um problema prático de otimização irrestrita
-    - Código (Jupyter Notebook, Python)
-    - Apresentação (5 slides: Intro, Problema, Método, Resultados, Conclusão)
-    
-- **$T_2$**: Resolução de um problema prático de otimização restrita
-    - Código (Jupyter Notebook, Python)
-    - Apresentação (5 slides: Intro, Problema, Método, Resultados, Conclusão)
-
-
-![bg right:20%](figures/exam_content.jpg)
-
---- 
-
-## Canais de Comunicação
-
-- **Aulas**
-    - Dúvidas em aula (primeiros 15 minutos)    
-
-- **E-mail**: 
-    - *michael@ufc.br*
-    - Assunto: [CC0323] Assunto do e-mail    
-
-- **WhatsApp:** 
-  - Grupo: *CC0323-2024.1*
-  - :point_right: QR Code ao lado
-  
-![bg right:30% height:400](figures/qrcode_whatsapp.png)
-
----
-
-<style scoped>
-  section {
-    background-color: orange;
-  }
-</style>
-
-# Perguntas?
+- A person thinking
+```markdown
+/imagine prompt:A person, deep in thought, sits at a desk, surrounded by books and papers. The person is wearing a white shirt and has short, dark hair. The desk is cluttered with papers, and the person is holding a pen, as if about to write. The person is looking at a book, and their expression is one of intense concentration. The background is a warm, cozy room with a window, and the light is soft and golden. Created Using: deep thought, concentration, cozy room, warm light, golden light, cluttered desk, intense expression, short hair, white shirt, pen, book, papers, window, warm room, cozy atmosphere, soft light, golden light --ar 2:3
+```
